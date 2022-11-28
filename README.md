@@ -12,7 +12,7 @@
 </p>
 <br/>
 <h3 align="left">Idiomas e ferramentas: </h3>
-<p align="left">
+<p align="left" style="backgound-color:white;">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img2.gratispng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg" alt="html5" width="50" height="55"/>
 </a>
 <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg " alt="css3" width="50" height="60"/>
