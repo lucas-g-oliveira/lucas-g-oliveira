@@ -1,15 +1,17 @@
 <h1 align="center">Olá 👋, Eu sou o Lucas Gonçalves</h1>
-<h3 align="center">Um estudante apaixonado de programação web.</h3>
+<h3 align="center">Um desenvolverdor web apaixonado por tecnologia.</h3>
 <br/>
 <p align="left"> <a href ="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucas-g-oliveira" alt ="lucas-g-oliveira" /></a> </p>
 
+<br/>
 🔭 Atualmente estudando Desenvolvimento web na [Trybe](https://www.betrybe.com/)
 
+<br/>
 <h3 align="left">Conecte comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-goncalves-de-oliveira-dev/" target="blank"><img align="center " src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www .linkedin.com/in/lucas-goncalves-de-oliveira-dev/" height="30" width="40" /></a>
 </p>
-
+<br/>
 <h3 align="left">Idiomas e ferramentas: </h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img2.gratispng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg" alt="html5" width="50" height="55"/>
@@ -32,6 +34,7 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="50" height="50"/>
 </a>
 </p>
+<br/>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-g-oliveira&show_icons =true&locale=en" alt="lucas-g-oliveira" /></p>
 
