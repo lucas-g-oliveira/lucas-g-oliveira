@@ -19,17 +19,16 @@
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript " target="_blank" rel="noreferrer"> <img src="https://www.clipartmax.com/png/middle/470-4707396_javascript-icon-html-css-js-icons.png" alt="javascript" width="50" height="60"/>
 </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"width="50" height="50"/>
+</a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://imagepng.org/wp-content/uploads/2017/06/pinguim-linux-tux-2-871x1024.png" alt="linux" width="40" height="40"/>
+</a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" alt="react" width="70" height="50"/>
 </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/cms-storage-bucket/a9d6ce81aee44ae017ee.png" alt="flutter" width="40" height="50"/>
 </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"width="50" height="50"/>
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://imagepng.org/wp-content/uploads/2017/06/pinguim-linux-tux-2-871x1024.png" alt="linux" width="40" height="40"/>
-</a>
-<a href="https:// nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt= "nodejs" width="50" height="50"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/>
+<a href="https:// nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt= "nodejs" width="50" height="50"/></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="50" height="50"/>
 </a>
 </p>
