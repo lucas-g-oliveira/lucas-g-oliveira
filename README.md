@@ -1,11 +1,10 @@
 <h1 align="center">Olá 👋, Eu sou o Lucas Gonçalves</h1>
-<h3 align="center">Um desenvolverdor web apaixonado por tecnologia.</h3>
+<h3 align="center">Um desenvolvedor web apaixonado por tecnologia.</h3>
 <br/>
 <p align="left"> <a href ="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucas-g-oliveira" alt ="lucas-g-oliveira" /></a> </p>
 
 <br/>
-🔭 Atualmente estudando Desenvolvimento web na [Trybe](https://www.betrybe.com/)
-
+🔭 Atualmente estudando Desenvolvimento web na <a href src="https://www.betrybe.com/">Trybe</a>
 <br/>
 <h3 align="left">Conecte comigo:</h3>
 <p align="left">
