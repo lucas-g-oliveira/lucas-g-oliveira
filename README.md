@@ -34,7 +34,4 @@
 </p>
 <br/>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-g-oliveira&show_icons =true&locale=en" alt="lucas-g-oliveira" /></p>
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-g-oliveira&show_icons=true&locale=en&layout=compact" alt=" lucas-g-oliveira" /></p>
