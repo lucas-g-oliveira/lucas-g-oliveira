@@ -10,6 +10,7 @@ Aqui você encontra projetos construídos individualmente ou em grupo, com foco 
 
 * 🌍  Moro em Itapevi/SP - Brazil
 * ✉️  Você pode me contatar através do email [lucaswx.android@gmail.com](mailto:lucaswx.android@gmail.com)
+* [Perfil DIO](https://web.dio.me/users/lucaswx_android)
 
 ## Skills
 ### Front-End
